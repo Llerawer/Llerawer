@@ -1,36 +1,47 @@
-<h1 align="center">Hola, soy Gerardo Gabriel 👋</h1>
-
-<h3 align="center">Desarrollador Odoo · Python · Bases de datos</h3>
+<h1 align="center">Gerardo Gabriel Pantaleón García</h1>
+<h3 align="center">Systems Engineer · Odoo Developer</h3>
 
 <p align="center">
-  Ingeniero en Sistemas y desarrollador enfocado en el ecosistema <b>Odoo</b>.
-  Construyo y personalizo módulos: modelos, vistas, lógica de negocio y reportes.
+  I build business systems with Odoo — and I'm fascinated by the data that lives
+  underneath them: how it's structured, related, and queried.
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mí
+### Building the systems that produce data
 
-- 🔭 Actualmente desarrollo **módulos personalizados para Odoo**
+I develop and customize **Odoo** modules end to end — data models, views, business
+logic, and reports — turning business requirements into working ERP solutions.
+Working this close to the data layer every day is exactly what sparked a deeper
+interest: not just storing data, but designing it well.
+
+### Where my focus is — databases & data modeling
+
+I'm drawn to the foundation of every application: the database. I work with
+**PostgreSQL** and **SQL** to model entities, design relationships, and write
+queries that are clean and efficient. To me, solid data modeling is what
+separates a system that scales from one that breaks.
+
+### Where I'm headed — data engineering
+
+My path is growing from application development toward **data engineering**,
+with a strong focus on **SQL and data modeling** — building the structures and
+pipelines that turn raw operational data into something reliable and useful.
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### Tech stack
 
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
---
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-<p align="center">
-  <i>"Aprendiendo y construyendo, un módulo a la vez."</i>
-</p>
+### Let's connect
+
+📫 **202214039_gerardo@tesch.edu.mx**
