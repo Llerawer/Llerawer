@@ -48,7 +48,7 @@ I'm building toward.
 
 ---
 
-### <img src="https://cdn.simpleicons.org/postgresql/875A7B" width="22" /> Languages & Databases
+### <img src="https://cdn.simpleicons.org/visualstudiocode/875A7B" width="22" /> Languages & Databases
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -57,6 +57,7 @@ I'm building toward.
   <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
