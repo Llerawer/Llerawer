@@ -26,6 +26,18 @@ ERP functionality.
 This is what I do day to day, and what I enjoy most: building something that
 didn't exist before and making it fit perfectly.
 
+### <img src="https://cdn.simpleicons.org/odoo/875A7B" width="22" /> Published on the Odoo Apps Store
+
+**[Firma MX](https://apps.odoo.com/apps/modules/17.0/mifiel_sign)** &nbsp;·&nbsp; Legal electronic signatures for Mexico, fully integrated into Odoo 17.
+
+A **commercial module** I published under *Llerawer Technologies*. It integrates
+the Mifiel API to deliver **NOM-151–compliant** signatures with **e.firma (FEA)**
+support: multi-signer workflows with contract roles, a visual contract-template
+editor, real-time webhooks, automatic archiving of signed documents (PDF + XML),
+and a KPI dashboard. Around **2,900 lines of code**.
+
+[![View on Odoo Apps](https://img.shields.io/badge/View_on-Odoo_Apps-714B67?style=flat-square&logo=odoo&logoColor=white)](https://apps.odoo.com/apps/modules/17.0/mifiel_sign)
+
 ### <img src="https://cdn.simpleicons.org/postgresql/875A7B" width="22" /> And what powers it — the data
 
 Behind every module there's a database, and that's a part I really enjoy. I work
@@ -45,21 +57,6 @@ I'm building toward.
 ![SQL](https://img.shields.io/badge/SQL-714B67?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-714B67?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-714B67?style=flat-square&logo=linux&logoColor=white)
-
----
-
-### <img src="https://cdn.simpleicons.org/github/875A7B" width="22" /> Featured projects
-
-<!--
-  TARJETAS DE REPOSITORIOS FIJADOS
-  Cuando tengas repos públicos, descomenta este bloque y cambia REPO_NAME
-  por el nombre real de cada repositorio. Se verán como tarjetas elegantes.
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Llerawer&repo=REPO_NAME&theme=react)](https://github.com/Llerawer/REPO_NAME)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Llerawer&repo=REPO_NAME&theme=react)](https://github.com/Llerawer/REPO_NAME)
--->
-
-> Coming soon — publishing my Odoo modules and data projects here.
 
 ---
 
