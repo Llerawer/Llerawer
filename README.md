@@ -51,18 +51,20 @@ I'm building toward.
 ### <img src="https://cdn.simpleicons.org/git/875A7B" width="22" /> Tech stack
 
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
-![Python](https://img.shields.io/badge/Python-714B67?style=flat-square&logo=python&logoColor=white)
-![XML](https://img.shields.io/badge/XML-714B67?style=flat-square&logo=xml&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-714B67?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-714B67?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-714B67?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-714B67?style=flat-square&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 ### <img src="https://cdn.simpleicons.org/maildotru/875A7B" width="22" /> Let's connect
 
-[![Email](https://img.shields.io/badge/Email-714B67?style=flat-square&logo=gmail&logoColor=white)](mailto:gerardopantaleongarcia@gmail.com)
+[![Email](https://img.shields.io/badge/Email-714B67?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=gerardopantaleongarcia@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-714B67?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-pantale%C3%B3n-253b32377)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=714B67&height=80&section=footer" width="100%" alt="" />
