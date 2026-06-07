@@ -48,7 +48,7 @@ I'm building toward.
 
 ---
 
-### <img src="https://cdn.simpleicons.org/visualstudiocode/875A7B" width="22" /> Languages & Databases
+### <img src="https://cdn.simpleicons.org/gnubash/875A7B" width="22" /> Languages & Databases
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
