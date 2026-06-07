@@ -62,8 +62,7 @@ I'm building toward.
 
 ### <img src="https://cdn.simpleicons.org/maildotru/875A7B" width="22" /> Let's connect
 
-[![Email](https://img.shields.io/badge/Email-714B67?style=flat-square&logo=gmail&logoColor=white)](mailto:202214039_gerardo@tesch.edu.mx)
-<!-- Añade tu LinkedIn: cambia el # por la URL de tu perfil -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-714B67?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-714B67?style=flat-square&logo=gmail&logoColor=white)](mailto:gerardopantaleongarcia@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-714B67?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-pantale%C3%B3n-253b32377)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=714B67&height=80&section=footer" width="100%" alt="" />
