@@ -1,5 +1,8 @@
-<h1 align="center">Gerardo Gabriel Pantaleón García</h1>
-<h3 align="center">Systems Engineer · Odoo Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=60&lines=Gerardo+Gabriel+Pantale%C3%B3n+Garc%C3%ADa" alt="Gerardo Gabriel Pantaleón García" />
+</p>
+
+<h3 align="center">Odoo Developer · Passionate about data</h3>
 
 <p align="center">
   I build business systems with Odoo — and I'm fascinated by the data that lives
