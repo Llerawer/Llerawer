@@ -3,7 +3,7 @@
 <h3 align="center">Desarrollador Odoo · Python · Bases de datos</h3>
 
 <p align="center">
-  Estudiante de Ingeniería en Sistemas y desarrollador enfocado en el ecosistema <b>Odoo</b>.
+  Ingeniero en Sistemas y desarrollador enfocado en el ecosistema <b>Odoo</b>.
   Construyo y personalizo módulos: modelos, vistas, lógica de negocio y reportes.
 </p>
 
@@ -12,10 +12,6 @@
 ### 🧑‍💻 Sobre mí
 
 - 🔭 Actualmente desarrollo **módulos personalizados para Odoo**
-- 🌱 Aprendiendo a fondo **XML de Odoo, QWeb y el framework OWL**
-- 🐍 Mi base es **Python** y el modelado de datos con **PostgreSQL**
-- 🎯 Objetivo: convertirme en desarrollador Odoo profesional (nativo y comunidad/OCA)
-- 📫 Contáctame: **202214039_gerardo@tesch.edu.mx**
 
 ---
 
@@ -31,17 +27,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-### 📊 Mis estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Llerawer&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llerawer&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</p>
+--
 
 ---
 
