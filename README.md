@@ -47,4 +47,4 @@ pipelines that turn raw operational data into something reliable and useful.
 
 ### Let's connect
 
-📫 **202214039_gerardo@tesch.edu.mx**
+📫 **gerardopantaleongarcia@gmail.com**
